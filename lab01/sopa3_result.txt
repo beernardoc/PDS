@@ -1,0 +1,41 @@
+CASA                           4               20,3            Right           
+TIJOLO                         6               11,8            Right           
+MANTEIGA                       8               13,17           DownLeft        
+NUVEM                          5               4,17            DownLeft        
+PESSOA                         6               9,4             Down            
+CARRO                          5               6,16            DownLeft        
+PEIXE                          5               3,3             DownRight       
+CAMA                           4               17,17           Left           
+VERMELHO                       8               12,3            Down            
+LANCHEIRA                      9               8,11            DownRight       
+COMPUTADOR                     10              3,19            Down            
+ESFREGONA                      9               2,2             Down            
+AIRTON                         6               15,5            Up              
+MOREIRA                        7               8,10            Up              
+RILDA                          5               6,20            Up              
+FLAVIA                         6               2,4             DownRight       
+SILVERIO                       8               12,8            Down            
+HOMEM                          5               9,14            UpRight         
+IPHONE                         6               11,20           Down            
+MESSI                          5               5,12            UpRight         
+
+* * * * * * * * * * * * * * * I * * * * 
+* E * F * * * * * A * * * * S * * * * A 
+* S P * L * * * * R * * * S * * * * C D 
+* F * E * A * * * I * * E * * * N * O L 
+* R * * I * V * * E * M * * * U * M M I 
+* E * * * X * I * R * * * * V C E * P R 
+* G * * * * E * A O * * * E A M * * U * 
+* O * * * * * * * M L * M R O * * * T * 
+* N * P * * * * * * * A R H * * * * A * 
+* A * E N * * * * * * O N * * * * * D * 
+* * * S O * * T I J O L O C * * * * O I 
+* * V S T * * S * * * * * * H * * * R P 
+* * E O R * * I * * * * * * * E M * * H 
+* * R A I * * L * * * * * * * A I * * O 
+* * M * A * * V * * * * * * N * * R * N 
+* * E * * * * E * * * * * T * * * * A E 
+* * L * * * * R * * * * E * * * * * * * 
+* * H * * * * I * * * I * * * * * * * * 
+* * O * * * * O * * G * * A M A C * * * 
+* * C A S A * * * A * * * * * * * * * * 

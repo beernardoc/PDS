@@ -1,0 +1,20 @@
+LISBOA                         6               7,7             Left           
+PORTO                          5               5,5             Left           
+AVEIRO                         6               4,11            Down            
+PRAIA                          5               12,12           Left           
+OVAR                           4               4,9             Down            
+COIMBRA                        7               2,5             Right           
+SAOPAULO                       8               1,1             Right           
+
+S A O P A U L O * * * * 
+* * * * C O I M B R A * 
+* * * * * * * * * * * * 
+* * * * * * * * O * A * 
+* * * * * * * * V * V * 
+* * * * * * * * A * E * 
+* * * * * * * * R * I * 
+O T R O P * * * * * R * 
+* * * * * * * * * * O * 
+* * * * * * * A I A R P 
+* * * * * * * * * * * * 
+* A O B S I L * * * * * 

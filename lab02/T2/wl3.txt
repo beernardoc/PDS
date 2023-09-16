@@ -1,0 +1,2 @@
+program;copo;lista pode contra
+sim;nao

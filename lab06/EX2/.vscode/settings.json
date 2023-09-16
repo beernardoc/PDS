@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jackson-databind-2.9.6.jar",
+        "jackson-core-2.9.6.jar",
+        "jackson-annotations-2.9.0.jar",
+        "java-json.jar",
+        "json-20230227.jar",
+        "json-simple-1.1.1.jar"
+    ]
+}

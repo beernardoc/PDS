@@ -1,0 +1,21 @@
+
+Porto        5      8,8  Left  
+Morte        5      3,10 Left  
+Local        5     11,1  Up    
+Engano       6      7,2  Up    
+Rotate       6      2,10 Left  
+Esquilo      7     10,9  Up    
+Balbuciar    9      1,11 Down  
+
+..........B
+.O..ETATORA
+.N...ETROML
+.A......O.B
+.G......L.U
+.N......I.C
+LE......U.I
+A..OTROPQ.A
+C.......S.R
+O.......E..
+L..........
+

@@ -1,0 +1,18 @@
+PROGRAMMING                    11              12,1            Right           
+JAVA                           4               9,3             UpRight         
+WORDS                          5               5,5             Left           
+LINES                          5               3,1             Right           
+CIVIL                          5               11,6            Up              
+
+* * * * * * * * * * * * 
+* * * * * * * * * * * * 
+L I N E S * * * * * * * 
+* * * * * * * * * * * * 
+* * * * * * * * * * * * 
+S D R O W A * * * * * * 
+* * * * V L * * * * * * 
+* * * A * I * * * * * * 
+* * J * * V * * * * * * 
+* * * * * I * * * * * * 
+* * * * * C * * * * * * 
+P R O G R A M M I N G * 

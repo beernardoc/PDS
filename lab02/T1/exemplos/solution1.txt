@@ -1,0 +1,20 @@
+
+java         4      6,11 Down  
+test         4     11,5  Left  
+lines        5      2,2  Right 
+civic        5      1,7  Down  
+stack        5      3,6  Left  
+programming  11     1,10 Down  
+
+......C..P.
+.LINESI..R.
+.KCATSV..O.
+......I..G.
+......C..R.
+.........AJ
+.........MA
+.........MV
+.........IA
+.........N.
+.TSET....G.
+

@@ -1,0 +1,7 @@
+PROGRAMMING                    11              12,6            Up              
+JAVA                           4               9,1             Down            
+WORDS                          5               11,11           UpLeft          
+LINES                          5               5,5             Left           
+CIVIL                          5               8,1             Right           
+CIVIL                          5               6,11            Down            
+Erro no puzzle palavra(CIVIL) aparece mais e 1 vez

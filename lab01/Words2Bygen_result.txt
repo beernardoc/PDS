@@ -1,0 +1,22 @@
+PORTUGAL                       8               1,1             DownRight       
+CABOVERDE                      9               12,9            Up              
+BRASIL                         6               1,6             DownLeft        
+ANGOLA                         6               8,6             UpLeft          
+HOLANDA                        7               12,1            Right           
+SENEGAL                        7               4,10            Down            
+CHINA                          5               8,3             DownRight       
+PRAIA                          5               6,5             UpRight         
+CARINA                         6               8,12            Up              
+
+P * * * * B * * * * * * 
+* O * * R * * * A * * * 
+A * R A * * * I * * * A 
+* L S T * * A * E S * N 
+* I O * U R * * D E * I 
+L * * G P G * * R N * R 
+* * * * N * A * E E * A 
+* * C * * A * L V G * C 
+* * * H * * * * O A * * 
+* * * * I * * * B L * * 
+* * * * * N * * A * * * 
+H O L A N D A * C * * * 

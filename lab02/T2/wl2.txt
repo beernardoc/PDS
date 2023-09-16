@@ -1,0 +1,2 @@
+casa;carro;teste linha pente
+roda;

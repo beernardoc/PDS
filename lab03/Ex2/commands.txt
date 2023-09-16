@@ -1,0 +1,16 @@
+F test0 3x5
+R test0 E 2
+R test0 T 10
+R test0 T 5
+R test0 T 1
+M test0
+I flight1.txt
+R TP1920 T 8
+M TP1920
+F test1 3x3 2x4
+R test1 T 7
+R test1 E 8
+M test1
+C 1
+TP1920
+M TP1920
